@@ -1,0 +1,32 @@
++	RARROW	arrow pointing right
+,	LARROW	arrow pointing left
+-	UARROW	arrow pointing up
+.	DARROW	arrow pointing down
+0	BLOCK	solid square block
+`	DIAMOND	diamond
+a	CKBOARD	checker board (stipple)
+f	DEGREE	degree symbol
+g	PLMINUS	plus/minus
+h	BOARD	board of squares
+i	LANTERN	lantern symbol
+j	LRCORNER	lower right corner
+k	URCORNER	upper right corner
+l	ULCORNER	upper left corner
+m	LLCORNER	lower left corner
+n	PLUS	large plus or crossover
+o	S1	scan line 1
+p	S3	scan line 3
+q	HLINE	horizontal line
+r	S7	scan line 7
+s	S9	scan line 9
+t	LTEE	tee pointing right
+u	RTEE	tee pointing left
+v	BTEE	tee pointing up
+w	TTEE	tee pointing down
+x	VLINE	vertical line
+y	LEQUAL	less/equal
+z	GEQUAL	greater/equal
+{	PI	Pi
+|	NEQUAL	not equal
+}	STERLING	UK pound sign
+~	BULLET	bullet
