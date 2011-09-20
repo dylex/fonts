@@ -8,7 +8,7 @@ all: $(files)
 	bdftopcf -t -o $@ $<
 
 %.pcf.gz: %.pcf
-	gzip $<
+	gzip -f $<
 
 install: all
 	install $(files) $(dir)
