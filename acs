@@ -1,32 +1,32 @@
-+	RARROW	arrow pointing right
-,	LARROW	arrow pointing left
--	UARROW	arrow pointing up
-.	DARROW	arrow pointing down
-0	BLOCK	solid square block
-`	DIAMOND	diamond
-a	CKBOARD	checker board (stipple)
-f	DEGREE	degree symbol
-g	PLMINUS	plus/minus
-h	BOARD	board of squares
-i	LANTERN	lantern symbol
-j	LRCORNER	lower right corner
-k	URCORNER	upper right corner
-l	ULCORNER	upper left corner
-m	LLCORNER	lower left corner
-n	PLUS	large plus or crossover
-o	S1	scan line 1
-p	S3	scan line 3
-q	HLINE	horizontal line
-r	S7	scan line 7
-s	S9	scan line 9
-t	LTEE	tee pointing right
-u	RTEE	tee pointing left
-v	BTEE	tee pointing up
-w	TTEE	tee pointing down
-x	VLINE	vertical line
-y	LEQUAL	less/equal
-z	GEQUAL	greater/equal
-{	PI	Pi
-|	NEQUAL	not equal
-}	STERLING	UK pound sign
-~	BULLET	bullet
++	RARROW	arrow pointing right	2192
+,	LARROW	arrow pointing left	2190
+-	UARROW	arrow pointing up	2191
+.	DARROW	arrow pointing down	2193
+0	BLOCK	solid square block	2588
+`	DIAMOND	diamond	25C6
+a	CKBOARD	checker board (stipple)         2592
+f	DEGREE	degree symbol                   00B0
+g	PLMINUS	plus/minus                      00B1
+h	BOARD	board of squares                ?
+i	LANTERN	lantern symbol                  ?
+j	LRCORNER	lower right corner              2518
+k	URCORNER	upper right corner              2510
+l	ULCORNER	upper left corner               250C
+m	LLCORNER	lower left corner               2514
+n	PLUS	large plus or crossover         253C
+o	S1	scan line 1                     23BA
+p	S3	scan line 3                     23BB
+q	HLINE	horizontal line                 2500
+r	S7	scan line 7                     23BC
+s	S9	scan line 9                     23BD
+t	LTEE	tee pointing right              251C
+u	RTEE	tee pointing left               2524
+v	BTEE	tee pointing up                 2534
+w	TTEE	tee pointing down               252C
+x	VLINE	vertical line                   2502
+y	LEQUAL	less/equal                      2264
+z	GEQUAL	greater/equal                   2265
+{	PI	Pi                              03C0
+|	NEQUAL	not equal                       2260
+}	STERLING	UK pound sign                   00A3
+~	BULLET	bullet                          2022
