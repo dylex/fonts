@@ -1,5 +1,5 @@
-fonts=7x13
-files=$(patsubst %,%.pcf.gz,$(foreach f,$(fonts),$(f) $(f)B $(f)O $(f)BO))
+fonts=6x10 6x10B 7x13 7x13B 7x13O 7x13BO
+files=$(fonts:=.pcf.gz)
 dir=/usr/share/fonts/dylex
 
 all: $(files)
