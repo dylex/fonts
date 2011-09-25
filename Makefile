@@ -1,4 +1,4 @@
-fonts=6x10 6x10B 6x10O 6x10BO 7x13 7x13B 7x13O 7x13BO 10x20 10x20B 10x20O
+fonts=$(foreach f,6x10 7x13 10x20,$(f) $(f)B $(f)O $(f)BO)
 files=$(fonts:=.pcf.gz)
 dir=/usr/share/fonts/dylex
 
