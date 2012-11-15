@@ -1,0 +1,20 @@
+Monospace terminal fonts for text and coding.
+
+Based on the freedesktop X11 fixed family of fonts (font-misc-misc) with some
+influences taken from Proggy fonts (http://www.proggyfonts.com).
+
+Design goals:
+- Readable, general purpose, usable for code, text, and command-line.
+- Three sizes: 6x10 (small), 7x13 (medium), 10x20 (huge).
+- Include as many unicode points as available (up to FFFF).
+- Coplete bold * italic variants.
+
+The variants only include code points that differ from the base, so it's best
+to use these with a terminal that can fall back to the plain version.  I use
+them with xtmux which will behave correctly using:
+> set xtmux-font "-dylex-terminal-medium-r-*-*-13-*-*-*-*-*-*-*"
+
+Also included is a square 14x14 font designed for crawl and other rogue-likes.
+
+Fonts: CC0 public domain
+Code: BSD
