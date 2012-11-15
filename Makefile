@@ -11,7 +11,7 @@ all: $(files)
 	gzip -f $<
 
 install: all
-	install $(files) $(dir)
+	install -m 644 $(files) $(dir)
 	mkfontdir $(dir)
 
 clean:
