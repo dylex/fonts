@@ -15,6 +15,7 @@ them with xtmux which will behave correctly using:
 > set xtmux-font "-dylex-terminal-medium-r-*-*-13-*-*-*-*-*-*-*"
 
 Also included is a square 14x14 font designed for crawl and other rogue-likes.
+There is also a special DCSS charset config, crawl_glyphs.txt, for this font.
 
 Fonts: CC0 public domain
 Code: BSD
