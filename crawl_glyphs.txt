@@ -1,5 +1,6 @@
 # This DCSS character set is intended for use with 14x14.bdf
 # However, it should be reasonable with any unicode font.
+heap_brand = standout
 display_char = wall:x2592 ▒
 display_char = permawall:x2593 ▓
 display_char = wall_magic:x2591 ░
