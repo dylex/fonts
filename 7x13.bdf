@@ -3,7 +3,7 @@ COMMENT Sources:
 COMMENT -Misc-Fixed-Medium-R-Normal--13-120-75-75-C-70-ISO10646-1 $ucs-fonts: 7x13.bdf,v 1.52 2008-04-19 22:55:01+01 mgk25 Rel $
 COMMENT -windows-proggyclean-medium-r-normal--13-80-96-96-c-70-iso8859-1
 FONT -dylex-terminal-Medium-R-Normal--13-120-75-75-C-70-ISO10646-1
-SIZE 13 78 78
+SIZE 13 75 75
 FONTBOUNDINGBOX 7 13 0 -3
 STARTPROPERTIES 23
 FONTNAME_REGISTRY ""

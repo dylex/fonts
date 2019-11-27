@@ -3,7 +3,7 @@ COMMENT Sources:
 COMMENT -Misc-Fixed-Medium-O-Normal--13-120-75-75-C-70-ISO10646-1 $ucs-fonts: 7x13O.bdf,v 1.9 2002-11-08 20:42:37+00 mgk25 Rel $
 COMMENT -windows-dina-medium-i-normal--13-80-96-96-c-70-microsoft-cp1252
 FONT -dylex-terminal-Medium-O-Normal--13-120-75-75-C-70-ISO10646-1
-SIZE 13 78 78
+SIZE 13 75 75
 FONTBOUNDINGBOX 7 13 0 -3
 STARTPROPERTIES 23
 FONTNAME_REGISTRY ""
